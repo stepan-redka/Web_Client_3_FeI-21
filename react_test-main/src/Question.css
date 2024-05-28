@@ -1,0 +1,14 @@
+.question-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #007bff; /* Blue text */
+}
+
+.answer-option {
+  margin-bottom: 5px;
+}
+
+.radio-input {
+  margin-right: 5px;
+}
